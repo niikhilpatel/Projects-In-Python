@@ -6,3 +6,4 @@
 <br> 3 :-> Draw Pie Chart
 <br> 4 :-> Password Generator
 <BR> 5 :-> Print Emoji
+<br> 6 :-> Hangman Game
