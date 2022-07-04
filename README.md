@@ -8,3 +8,4 @@
 <BR> 5 :-> Print Emoji
 <br> 6 :-> Hangman Game
 <br> 7 :-> Arrow Pattern
+<br> 8 :-> Create Acronyms
