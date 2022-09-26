@@ -10,3 +10,4 @@
 <br> 7 :-> Arrow Pattern
 <br> 8 :-> Create Acronyms
 <br> 9 :-> Mad Libs Generator
+<hr>
