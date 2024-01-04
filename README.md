@@ -1,14 +1,26 @@
 # Projects In Python
 ### 100 Projects In Python
-<h>
-<br> 01 :-> Calender
-<br> 02 :-> Defang IP Address
-<br> 03 :-> Draw Pie Chart
-<br> 04 :-> Password Generator
-<BR> 05 :-> Print Emoji
-<br> 06 :-> Hangman Game
-<br> 07 :-> Arrow Pattern
-<br> 08 :-> Create Acronyms
-<br> 09 :-> Mad Libs Generator
-<hr> 10 :-> Quiz Game
+
+
 <hr>
+
+### Basic Projects to Begins
+<br> 001 :-> Calender
+<br> 002 :-> Defang IP Address
+<br> 003 :-> Draw Pie Chart
+<br> 004 :-> Password Generator
+<BR> 005 :-> Print Emoji
+<br> 006 :-> Hangman Game
+<br> 007 :-> Arrow Pattern
+<br> 008 :-> Create Acronyms
+<br> 009 :-> Mad Libs Generator
+<br> 010 :-> Quiz Game
+<hr>
+
+### Intermediate Projects
+
+<br> 011 :-> QR Generator
+<br> 012 :-> Updated Soon 
+
+
+
